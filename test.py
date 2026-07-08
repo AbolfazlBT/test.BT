@@ -1,5 +1,4 @@
 print("hello")
-
-x = "su"
+x = "Abolfzl_BT"
 print(len(x))
 print(x)
